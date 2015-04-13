@@ -1,2 +1,5 @@
-Explain what git clone does, in your own words:
+Git clone allows you to clone a repository in your local repo. 
+Git clone allows you to clone a repo from Github to your local repo
+Git clone automocatically creates a remote connection called origin poiting back to the original repo.
+Very much like git init cloning is a one time operation. 
 
